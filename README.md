@@ -56,7 +56,7 @@ The analysis uses multiple relational tables:
 
 ##  Repository Contents
 - `README.md` → Project overview & documentation  
-- `subqueries.sql` → SQL queries used for analysis  
+- `queries.sql` → SQL queries used for analysis  
 - `Project365Store.pdf` → Final presentation (insights + visuals)
 
 ---
@@ -86,4 +86,5 @@ The analysis uses multiple relational tables:
 ##  Author
 -  **Zohair Raza**  
 -  Data Analyst (SQL | Power BI | Excel) 
+
 
